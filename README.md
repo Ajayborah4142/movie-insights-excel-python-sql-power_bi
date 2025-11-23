@@ -1,6 +1,6 @@
 # Movies Analysis (SQL)
 
-**Author:** Ajay Borah — Data Analyst | SQL | Power BI | Python
+**Author:** Ajay Borah — Data Analyst | SQL | Python
 
 ---
 
@@ -11,7 +11,6 @@ This project follows a complete end-to-end analytics workflow:
 1. **Explore data in Excel** (initial understanding, checking structure, spotting missing values).
 2. **Perform Exploratory Data Analysis (EDA) in Python** using Pandas, NumPy, Matplotlib.
 3. **Run detailed analysis in MySQL** to generate insights.
-4. **Create interactive visualizations in Power BI** for final storytelling and dashboards.
 
 This repository contains an end-to-end analysis of a large Movies dataset using **MySQL** (primary analysis) and **Python (pandas)** for data cleaning. The goal is to uncover trends about movie popularity, ratings, release patterns, language insights, and text-based themes — and to produce actionable recommendations for streaming platforms and stakeholders.
 
